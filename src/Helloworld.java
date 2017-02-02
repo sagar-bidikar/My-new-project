@@ -4,6 +4,7 @@ public class Helloworld {
 		System.out.println("hello git");
 		System.out.println("hello admin");
 		System.out.println("hello master");
+		System.out.println("hello operator");
 	}
 
 }
